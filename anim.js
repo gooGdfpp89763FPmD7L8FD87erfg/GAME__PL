@@ -92,48 +92,48 @@
   if (pick) {
     var GAMES = {
       wz: {
-        img: "https://hack-gaming.fr/unreal.webp", alt: "cheat warzone",
+        img: "https://hack-gaming.pl/unreal.webp", alt: "cheat warzone",
         count: "3 dostępne pakiety",
         name: "Call of Duty: Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, spoofer do rankedów i triggerbot. W 100% niewidoczne na streamie.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobacz pakiety Warzone →", href: "https://hack-gaming.fr/cheat-warzone.html",
+        cta: "Zobacz pakiety Warzone →", href: "https://hack-gaming.pl/cheat-warzone.html",
         glow: "59,130,246"
       },
       arc: {
-        img: "https://hack-gaming.fr/arc-ghost.webp", alt: "cheat arc rider pc",
+        img: "https://hack-gaming.pl/arc-ghost.webp", alt: "cheat arc rider pc",
         count: "3 dostępne pakiety",
         name: "ARC Raiders",
         desc: "Aimbot, ESP graczy i robotów, ESP lootu i ekstrakcji, triggerbot oraz spoofer HWID.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobacz pakiety ARC Raiders →", href: "https://hack-gaming.fr/cheat-arc-rider.html",
+        cta: "Zobacz pakiety ARC Raiders →", href: "https://hack-gaming.pl/cheat-arc-rider.html",
         glow: "245,158,11"
       },
       fn: {
-        img: "https://hack-gaming.fr/fn-delta.webp", alt: "cheat fortnite",
+        img: "https://hack-gaming.pl/fn-delta.webp", alt: "cheat fortnite",
         count: "2 dostępne pakiety",
         name: "Fortnite",
         desc: "Spersonalizowany aimbot, ESP graczy, ESP lootu i skrzyń, spoofer HWID + cleaner.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobacz pakiety Fortnite →", href: "https://hack-gaming.fr/cheat-fortnite.html",
+        cta: "Zobacz pakiety Fortnite →", href: "https://hack-gaming.pl/cheat-fortnite.html",
         glow: "139,92,246"
       },
       val: {
-        img: "https://hack-gaming.fr/valorant-maxim.webp", alt: "cheat valorant pc",
+        img: "https://hack-gaming.pl/valorant-maxim.webp", alt: "cheat valorant pc",
         count: "1 dostępny pakiet",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot i spoofer HWID. Niewykrywalny i 100% stream proof.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Zobacz pakiet Valorant →", href: "https://hack-gaming.fr/cheat-valorant.html",
+        cta: "Zobacz pakiet Valorant →", href: "https://hack-gaming.pl/cheat-valorant.html",
         glow: "255,70,85"
       },
       tk: {
-        img: "https://hack-gaming.fr/tarkov-reaper.webp", alt: "cheat tarkov pc",
+        img: "https://hack-gaming.pl/tarkov-reaper.webp", alt: "cheat tarkov pc",
         count: "1 dostępny pakiet",
         name: "Escape from Tarkov",
         desc: "Aimbot, ESP graczy i scavów, ESP lootu i ekstrakcji, spoofer HWID. Gotowe do użycia od ręki.",
         price: "389 €", consoles: "🖥️ PC",
-        cta: "Zobacz pakiet Tarkov →", href: "https://hack-gaming.fr/cheat-tarkov.html",
+        cta: "Zobacz pakiet Tarkov →", href: "https://hack-gaming.pl/cheat-tarkov.html",
         glow: "166,154,70"
       }
     };
